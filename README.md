@@ -2,7 +2,7 @@
 
 I’m Harsha — a polyglot technologist with 12+ years of experience building scalable platforms, leading full-stack teams, and shipping real-world products across EdTech, finance, and beyond.
 
-- 🛠️ I architect systems that evolve with the business — not just support it.
+- 🛠️ I build systems that evolve with the business — not just support it.
 - 📦 Passionate about extreme programming, clean code, and AI that’s actually useful.
 - 🤝 I care deeply about team culture, mentoring engineers, and building inclusive environments.
 
